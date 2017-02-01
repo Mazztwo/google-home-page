@@ -1,0 +1,1 @@
+A reproduction of the google.com homepage. This is done as a part of the Odin Project Curriculum (theodinproject.com).
