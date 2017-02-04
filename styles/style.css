@@ -5,8 +5,63 @@ html
 }
 
 
-
-h1
+#navBarMenu
 {
-	color: orange;
+	text-align: right;
 }
+
+#userImage
+{
+	border-radius: 50%;
+	height: 32px;
+	width: 32px;
+}
+
+#mainLogo
+{
+	display: block;
+	margin: auto;
+	height: 92px;
+	width: 272px;
+	padding-top: 109px;
+}
+
+li
+{
+	display: inline;
+	font-size: 13px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: arial, sans-serif;
+}
+
+.button
+{	
+	opacity: .55;
+}
+
+.button:hover
+{
+	opacity: .85;
+}
+
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+img
+{
+	height: 15px;
+	width: 15px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
