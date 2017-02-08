@@ -26,6 +26,30 @@ html
 	padding-top: 109px;
 }
 
+#search
+{
+	width: 459px;
+	height: 34px;
+	box-shadow: 5px 5px 5px #888888;
+	display: block;
+	margin: auto;
+
+}
+
+#searchBox
+{
+	display: block;
+	margin: auto;
+	width: 459px;
+	height: 34px;
+	outline: none;
+	font: 16px arial, sans-serif;
+	line-height: 34px;
+	margin-top: 30px;
+	cursor: auto;
+	text-indent: 13px;
+}
+
 li
 {
 	display: inline;
