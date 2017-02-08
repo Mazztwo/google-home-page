@@ -50,6 +50,37 @@ html
 	text-indent: 13px;
 }
 
+
+#buttons
+{
+
+	text-align: center;
+	padding-top: 30px;
+}
+
+
+.mainButtons
+{
+	font-family: arial, sans-serif;
+	color: #757575;
+	font-size: 13px;
+	border-radius: 2px;
+	border: 1px solid #f2f2f2;
+	background-color: #f2f2f2;
+	font-weight: bold;
+	margin: 11px 4px;
+	padding: 11px;
+	text-align: center;
+
+}
+
+.mainButtons:hover
+{
+	border: 1px solid #c6c6c6;
+	color: black;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
 li
 {
 	display: inline;
@@ -59,12 +90,12 @@ li
 	font-family: arial, sans-serif;
 }
 
-.button
+.topButton
 {	
 	opacity: .55;
 }
 
-.button:hover
+.topButton:hover
 {
 	opacity: .85;
 }
